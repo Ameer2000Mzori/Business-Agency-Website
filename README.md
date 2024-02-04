@@ -1,3 +1,7 @@
+# THIS PROJECT IS PAUZED AND MAYBE CANCELED
+
+![alt text](./sample/1.png)
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -22,8 +26,7 @@
 
 # Sample Of Website <a name="Sample-Of-Website"></a>
 
-![alt text](./sample/1.png)
-![alt text](./sample/2.png)
+<!-- ![alt text](./sample/1.png) -->
 
 ## 🛠 Built With <a name="built-with"></a>
 
