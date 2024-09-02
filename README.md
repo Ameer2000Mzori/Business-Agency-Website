@@ -1,4 +1,4 @@
-# THIS PROJECT IS PAUZED AND MAYBE CANCELED
+# THIS PROJECT IS PAUZED
 
 ![alt text](./sample/1.png)
 
